@@ -1,4 +1,3 @@
-````markdown
 # Optimal Control of a Variable-Mass Thrust-Vectoring Rocket
 
 This repository contains MATLAB code and report files for an optimal control project involving a simplified planar variable-mass thrust-vectoring rocket. The project develops and compares linearized LQR regulation, trajectory tracking, minimum-time bang-bang control, energy-optimal landing, and nonlinear near-hover optimal control.
